@@ -1,2 +1,2 @@
-# breast-cancer-prediction-ML-model
-breast cancer prediction ML model using classification algorithms.
+# breast-cancer-classification
+breast cancer classification ML model using classification algorithms.
